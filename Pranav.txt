@@ -1,1 +1,3 @@
-This is my First Git Repository
+This is my First Git Repository.
+This is second edit in existing Git Repository.
+
